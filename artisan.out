@@ -1,0 +1,2 @@
+
+Parse error: syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476

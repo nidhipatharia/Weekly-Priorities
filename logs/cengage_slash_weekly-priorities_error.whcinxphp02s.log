@@ -1,0 +1,159 @@
+[Mon Aug 07 09:54:22 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Mon Aug 07 09:54:22 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Aug 07 09:54:22 2017] [info] Init: Initializing (virtual) servers for SSL
+[Mon Aug 07 09:54:22 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Mon Aug 07 09:54:22 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Mon Aug 07 09:54:22 2017] [info] Init: Initializing (virtual) servers for SSL
+[Mon Aug 07 09:54:22 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Mon Aug 07 09:54:22 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Mon Aug 07 09:54:22 2017] [info] Server built: Jan  9 2017 12:12:34
+[Mon Oct 30 13:40:22 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=20132)
+[Mon Oct 30 13:40:22 2017] [notice] caught SIGTERM, shutting down
+[Tue Nov 07 11:52:17 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 11:52:17 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 11:52:17 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 11:52:17 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 11:52:17 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 11:52:17 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 11:52:17 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 11:52:17 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 11:52:17 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 11:59:34 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=46294)
+[Tue Nov 07 11:59:34 2017] [notice] caught SIGTERM, shutting down
+[Tue Nov 07 11:59:42 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 11:59:42 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 11:59:42 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 11:59:42 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 11:59:42 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 11:59:42 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 11:59:42 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 11:59:42 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 11:59:42 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 12:20:04 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=46818)
+[Tue Nov 07 12:20:04 2017] [notice] caught SIGTERM, shutting down
+[Tue Nov 07 12:20:11 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 12:20:11 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 12:20:11 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 12:20:11 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 12:20:11 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 12:20:11 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 12:20:11 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 12:20:11 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 12:20:11 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 13:59:51 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=48382)
+[Tue Nov 07 13:59:51 2017] [notice] caught SIGTERM, shutting down
+[Tue Nov 07 14:00:07 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 14:00:07 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 14:00:07 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 14:00:07 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 14:00:07 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 14:00:07 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 14:00:07 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 14:00:07 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 14:00:07 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 14:27:38 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=55347)
+[Tue Nov 07 14:27:38 2017] [notice] caught SIGTERM, shutting down
+[Tue Nov 07 15:22:11 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:22:11 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 15:22:11 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:22:11 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:22:11 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:22:11 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:22:11 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:22:11 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 15:22:11 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 15:23:58 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=61392)
+[Tue Nov 07 15:23:58 2017] [notice] caught SIGTERM, shutting down
+[Tue Nov 07 15:24:03 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:24:03 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 15:24:03 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:24:03 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:24:03 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:24:03 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:24:03 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:24:03 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 15:24:03 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 15:44:50 2017] [notice] SIGHUP received.  Attempting to restart
+[Tue Nov 07 15:44:50 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:44:50 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:44:50 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:44:50 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 15:44:50 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 15:54:24 2017] [notice] SIGHUP received.  Attempting to restart
+[Tue Nov 07 15:54:24 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:54:24 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:54:24 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:54:24 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 15:54:24 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 15:54:33 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=61524)
+[Tue Nov 07 15:54:33 2017] [notice] caught SIGTERM, shutting down
+[Tue Nov 07 15:54:39 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:54:39 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 07 15:54:39 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:54:39 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:54:39 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 15:54:39 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 15:54:39 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 15:54:39 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 15:54:39 2017] [info] Server built: Jan  9 2017 12:12:34
+[Tue Nov 07 16:14:25 2017] [notice] SIGHUP received.  Attempting to restart
+[Tue Nov 07 16:14:25 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Tue Nov 07 16:14:25 2017] [info] Init: Initializing (virtual) servers for SSL
+[Tue Nov 07 16:14:25 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Tue Nov 07 16:14:25 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Tue Nov 07 16:14:25 2017] [info] Server built: Jan  9 2017 12:12:34
+[Wed Nov 08 13:14:55 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=63816)
+[Wed Nov 08 13:14:55 2017] [notice] caught SIGTERM, shutting down
+[Wed Nov 08 13:16:00 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Wed Nov 08 13:16:00 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 08 13:16:00 2017] [info] Init: Initializing (virtual) servers for SSL
+[Wed Nov 08 13:16:00 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Wed Nov 08 13:16:00 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Wed Nov 08 13:16:00 2017] [info] Init: Initializing (virtual) servers for SSL
+[Wed Nov 08 13:16:00 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Wed Nov 08 13:16:00 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Wed Nov 08 13:16:00 2017] [info] Server built: Jan  9 2017 12:12:34
+[Wed Nov 08 13:23:27 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=22580)
+[Wed Nov 08 13:23:27 2017] [notice] caught SIGTERM, shutting down
+[Wed Nov 08 13:25:59 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Wed Nov 08 13:25:59 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 08 13:25:59 2017] [info] Init: Initializing (virtual) servers for SSL
+[Wed Nov 08 13:25:59 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Wed Nov 08 13:25:59 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Wed Nov 08 13:25:59 2017] [info] Init: Initializing (virtual) servers for SSL
+[Wed Nov 08 13:25:59 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Wed Nov 08 13:25:59 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Wed Nov 08 13:25:59 2017] [info] Server built: Jan  9 2017 12:12:34
+[Wed Nov 08 13:30:36 2017] [info] removed PID file /var/run/clts_apache/cengage_slash_weekly-priorities.pid (pid=23472)
+[Wed Nov 08 13:30:36 2017] [notice] caught SIGTERM, shutting down
+[Thu Nov 09 13:51:45 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Thu Nov 09 13:51:45 2017] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 09 13:51:45 2017] [info] Init: Initializing (virtual) servers for SSL
+[Thu Nov 09 13:51:45 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Thu Nov 09 13:51:45 2017] [info] Init: Seeding PRNG with 0 bytes of entropy
+[Thu Nov 09 13:51:45 2017] [info] Init: Initializing (virtual) servers for SSL
+[Thu Nov 09 13:51:45 2017] [info] mod_ssl/2.2.31 compiled against Server: Apache/2.2.31, Library: OpenSSL/0.9.8j-fips
+[Thu Nov 09 13:51:45 2017] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8j-fips configured -- resuming normal operations
+[Thu Nov 09 13:51:45 2017] [info] Server built: Jan  9 2017 12:12:34
+[Thu Nov 09 13:52:26 2017] [error] [client 10.162.234.12] Directory index forbidden by Options directive: /www/docs/cengage_slash_weekly-priorities/
+[Thu Nov 09 13:55:26 2017] [error] [client 10.162.234.13] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 13:55:26 2017] [error] [client 10.162.234.13] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 13:56:33 2017] [error] [client 10.162.234.12] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 13:56:33 2017] [error] [client 10.162.234.12] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 13:57:43 2017] [error] [client 10.162.234.11] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 13:57:43 2017] [error] [client 10.162.234.11] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:04:20 2017] [error] [client 10.162.234.14] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:04:20 2017] [error] [client 10.162.234.14] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:04:24 2017] [error] [client 10.162.234.11] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:04:24 2017] [error] [client 10.162.234.11] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:07:12 2017] [error] [client 10.162.234.13] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:07:12 2017] [error] [client 10.162.234.13] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:13:24 2017] [error] [client 10.162.234.11] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:13:24 2017] [error] [client 10.162.234.11] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:19:17 2017] [error] [client 10.162.234.14] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:19:17 2017] [error] [client 10.162.234.14] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:29:34 2017] [error] [client 10.162.234.12] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/www/docs/cengage_slash_weekly-priorities/routes/api.php): failed to open stream: No such file or directory' in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php:76\nStack trace:\n#0 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'require(/www/do...', '/www/docs/cenga...', 76, Array)\n#1 /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php(76): App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}()\n#2 [internal function]: App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}(Object(Illuminate\\Routing\\Router))\n#3 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Routing/Router.php(330): call_user_func(Object(Closure), Object(Illuminate\\Routing\\Router))\n#4 /www/docs/cengage_slash_weekly-priorities/vendor/laravel/framework/src/Illuminate/Support/Facades/ in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:29:34 2017] [error] [client 10.162.234.12] PHP Fatal error:  App\\Providers\\RouteServiceProvider::App\\Providers\\{closure}(): Failed opening required '/www/docs/cengage_slash_weekly-priorities/routes/api.php' (include_path='.:/opt/apache+php/2.2.31+5.6.29/lib/php') in /www/docs/cengage_slash_weekly-priorities/app/Providers/RouteServiceProvider.php on line 76
+[Thu Nov 09 14:29:38 2017] [error] [client 10.162.234.12] Directory index forbidden by Options directive: /www/docs/cengage_slash_weekly-priorities/
+[Thu Nov 09 14:32:51 2017] [error] [client 10.162.234.12] Directory index forbidden by Options directive: /www/docs/cengage_slash_weekly-priorities/
+[Thu Nov 09 14:33:32 2017] [error] [client 10.162.234.12] Directory index forbidden by Options directive: /www/docs/cengage_slash_weekly-priorities/
